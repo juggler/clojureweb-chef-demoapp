@@ -1,0 +1,3 @@
+/*
+ * wtf-main JavaScript code
+ */
